@@ -8,7 +8,7 @@
 #==============================================================================#
 
 # --- Configuration ---
-CONFIG_FILE="$HOME/.tunnelsmith.conf"
+CONFIG_FILE="$HOME/.install.conf"
 
 # Load configuration if exists
 if [ -f "$CONFIG_FILE" ]; then
