@@ -2,7 +2,7 @@
 
 #==============================================================================#
 #                                                                              #
-#                                 🚇 PortFowdaing 🚇                            #
+#                                 🚇 Port  ADVIK  🚇                            #
 #           A cool and friendly script for creating reverse SSH tunnels.       #
 #                                                                              #
 #==============================================================================#
@@ -18,7 +18,7 @@ else
     REMOTE_USER="tunnel"
     SSH_PORT="22"
     MIN_PORT="10000"
-    MAX_PORT="65534"
+    MAX_PORT="65535"
 fi
 
 # --- Colors and Emojis ---
